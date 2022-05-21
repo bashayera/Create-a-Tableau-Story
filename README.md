@@ -1,5 +1,5 @@
 # Create-a-Tableau-Story
-Udacity Data Analyst Nanodegree  November 2018. Project8 : Create a Tableau Story.
+Udacity Data Analyst Nanodegree  November 2018. (Project 8)
 
 
 
